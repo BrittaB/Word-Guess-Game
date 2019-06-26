@@ -1,62 +1,62 @@
 var wordGuessGame = {
    bandsToPick: {
        devo:{
-           picture: "",
-           song: "",
-           video: "",
+           picture: "devo.jgp",
+           song: "whip it",
+           video: "https://youtu.be/IIEVqFB4WUo",
        },
        duranduran:{
-           picture: "",
+           picture: "duraduran.jgp",
            song: "",
            video: "",
        },
        thecure:{
-           picture: "",
+           picture: "thecure.jgp",
            song: "",
            video: "",
        },
        thesmiths:{
-           picture: "",
+           picture: "thesmiths.jpg",
            song: "",
            video: "",
        },
        depechemode:{
-           picture: "",
+           picture: "depechemode.jpg",
            song: "",
            video: "",
        },
        talkingheads:{
-           picture: "",
+           picture: "talkingheads.jpg",
            song: "",
            video: "",
        },
        echoandthebunnymen:{
-           picture: "",
+           picture: "echoandthebunnymen.jpg",
            song: "",
            video: "",
        },
        tearsforfears:{
-           picture: "",
+           picture: "tearsforfears.jpg",
            song: "",
            video: "",
        },
-       aflockofseagulls:{
-           picture: "",
+       flockofseagulls:{
+           picture: "flockofseagulls.jpg",
            song: "",
            video: "",
        },
        joydivision:{
-           picture: "",
+           picture: "joydivision.jpg",
            song: "",
            video: "",
-       }
+       },
        siouxsieandthebanshees:{
-           picture: "",
+           picture: "sioxsieandthebanshees.jpg",
            song: "",
            video: "",
        },
        thepsychedelicfurs:{
-           picture: "",
+           picture: "thepsychedelicfurs.jpg",
            song: "",
            video: "",
        }
