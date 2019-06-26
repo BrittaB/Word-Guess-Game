@@ -7,13 +7,13 @@ var wordGuessGame = {
        },
        duranduran:{
            picture: "duraduran.jgp",
-           song: "",
-           video: "",
+           song: "hungry like the wolf",
+           video: "https://youtu.be/oJL-lCzEXgI",
        },
        thecure:{
            picture: "thecure.jgp",
-           song: "",
-           video: "",
+           song: "pictures of you",
+           video: "https://youtu.be/X8UR2TFUp8w",
        },
        thesmiths:{
            picture: "thesmiths.jpg",
@@ -32,13 +32,13 @@ var wordGuessGame = {
        },
        echoandthebunnymen:{
            picture: "echoandthebunnymen.jpg",
-           song: "",
-           video: "",
+           song: "the killing moon",
+           video: "https://youtu.be/LWz0JC7afNQ",
        },
        tearsforfears:{
            picture: "tearsforfears.jpg",
-           song: "",
-           video: "",
+           song: "shout",
+           video: "https://youtu.be/Ye7FKc1JQe4",
        },
        flockofseagulls:{
            picture: "flockofseagulls.jpg",
@@ -47,8 +47,8 @@ var wordGuessGame = {
        },
        joydivision:{
            picture: "joydivision.jpg",
-           song: "",
-           video: "",
+           song: "disorder",
+           video: "https://youtu.be/fhCLalLXHP4",
        },
        siouxsieandthebanshees:{
            picture: "sioxsieandthebanshees.jpg",
