@@ -4,58 +4,58 @@ var wordGuessGame = {
            picture: "",
            song: "",
            video: "",
-       }
-       devo:{
+       },
+       duranduran:{
+           picture: "",
+           song: "",
+           video: "",
+       },
+       thecure:{
+           picture: "",
+           song: "",
+           video: "",
+       },
+       thesmiths:{
+           picture: "",
+           song: "",
+           video: "",
+       },
+       depechemode:{
+           picture: "",
+           song: "",
+           video: "",
+       },
+       talkingheads:{
+           picture: "",
+           song: "",
+           video: "",
+       },
+       echoandthebunnymen:{
+           picture: "",
+           song: "",
+           video: "",
+       },
+       tearsforfears:{
+           picture: "",
+           song: "",
+           video: "",
+       },
+       aflockofseagulls:{
+           picture: "",
+           song: "",
+           video: "",
+       },
+       joydivision:{
            picture: "",
            song: "",
            video: "",
        }
-       devo:{
+       siouxsieandthebanshees:{
            picture: "",
            song: "",
            video: "",
-       }
-       devo:{
-           picture: "",
-           song: "",
-           video: "",
-       }
-       devo:{
-           picture: "",
-           song: "",
-           video: "",
-       }
-       devo:{
-           picture: "",
-           song: "",
-           video: "",
-       }
-       devo:{
-           picture: "",
-           song: "",
-           video: "",
-       }
-       devo:{
-           picture: "",
-           song: "",
-           video: "",
-       }
-       devo:{
-           picture: "",
-           song: "",
-           video: "",
-       }
-       devo:{
-           picture: "",
-           song: "",
-           video: "",
-       }
-       devo:{
-           picture: "",
-           song: "",
-           video: "",
-       }
-       devo:{
+       },
+       thepsychedelicfurs:{
            picture: "",
            song: "",
            video: "",
